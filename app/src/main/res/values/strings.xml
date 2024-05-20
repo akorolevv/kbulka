@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">kbulka</string>
+    <string name="join_string">Авторизироваться</string>
+    <string name="registration_string">Зарегистрироваться</string>
+    <string name="information_text">Войдите в аккаунт или зарегистрируйтесь</string>
+    <string name="phone_number_hint">Введите номер телефона. Например: +79002281337</string>
+    <string name="password_hint">Введите пароль, указанный при регистрации</string>
+    <string name="login_button_text">Войти в систему</string>
+    <string name="uchet_vypuska">Учет выпуска</string>
+    <string name="uchet_realizacii">Учет реализации</string>
+    <string name="analiz_dannyh">Анализ данных</string>
+</resources>

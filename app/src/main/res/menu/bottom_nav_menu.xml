@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_uchet_vypuska"
+        android:icon="@drawable/ic_production"
+        android:title="Учет выпуска" />
+
+    <item
+        android:id="@+id/nav_uchet_realizacii"
+        android:icon="@drawable/ic_production"
+        android:title="Учет реализации" />
+
+    <item
+        android:id="@+id/nav_analiz_dannyh"
+        android:icon="@drawable/ic_production"
+        android:title="Анализ данных" />
+</menu>
